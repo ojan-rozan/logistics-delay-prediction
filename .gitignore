@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+data/*.csv
+output/*.pkl
+output/*.pt
+output/*.json
+logs/*.log
+mlruns/
+.ipynb_checkpoints/
+mlflow.db
+mlartifacts/
